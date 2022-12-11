@@ -8,7 +8,7 @@ Finalmente, pude encontrar el curso de Plataforma5 que ha cambiado completamente
  
  <p align="left">
       <a href="http://linkedin.com/in/santiago-estevez-a04298139">
-         <img alt="Portafolio" title="Mira mi portafolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
+         <img alt="Portafolio" title="Mira mi portafolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-red?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
        <a href="http://linkedin.com/in/santiago-estevez-a04298139">
          <img alt="CV" title="Mira mi CV" src="https://custom-icon-badges.demolab.com/badge/-Mi CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
         <a href="https://github.com/elbolaestevez">
