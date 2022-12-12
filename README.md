@@ -2,9 +2,9 @@
 
 <h3 align="center">Full Stack Developer apasionado de Argentina 🇨🇴</h3>
 
-Hola a todos, les cuento un poco de mi! a comienzos del 2022, después de un tiempo ejerciendo mi carrera como Contador y sintiendome insatisfecho salí de mi zona de confort, dándole un giro a mi vida donde decidí tomar un camino diferente y un nuevo desafío, desde pequeño siempre tuve el gusto y la pasión por la tecnología que al día de hoy persistió, así fue que comenzó mi camino por el mundo de las IT.
+Hola a todos, les cuento un poco de mi! a comienzos del 2022, después de un tiempo ejerciendo mi carrera como Contador y sintiendome insatisfecho salí de mi zona de confort, dándole un giro a mi vida donde decidí tomar un camino diferente y un nuevo desafío. 
+Finalmente, luego de tanta búsqueda encontré algo que me apasiona que en mi tiempo libre lo utilizo como entretenimiento. El poder de creatividad que brinda esto es muy grande, muy distinto lo que hacía anteriormente. Y ahora que lo encontré no voy a parar.
 
-Finalmente, pude encontrar el curso de Plataforma5 que ha cambiado completamente mi vida y por fin encontrar algo que me apasione y me guste.
  
  <p align="left">
       <a href="http://linkedin.com/in/santiago-estevez-a04298139">
