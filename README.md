@@ -8,7 +8,7 @@ Hola a todos, les cuento un poco de mí! a comienzos del 2022, después de un ti
  <p align="left">
       <a href="https://golden-pothos-2374c5.netlify.app/">
      <img alt="Portafolio" title="Mira mi portafolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-red?style=for-the-badge&logoColor=white&logo=portafolio%22/%3E"</a>
-       <a href="http://linkedin.com/in/santiago-estevez-a04298139">
+       <a href="https://github.com/elbolaestevez/elbolaestevez/edit/main/Santiago%20Estévez.pdf">
          <img alt="CV" title="Mira mi CV" src="https://custom-icon-badges.demolab.com/badge/-Mi CV-green?style=for-the-badge&logo=download&logoColor=white"/></a>
         <a href="https://github.com/elbolaestevez">
          <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Mis%20Repositorios-yellow?style=for-the-badge&logoColor=white&logo=repo"/></a>
