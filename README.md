@@ -7,7 +7,7 @@ Hola a todos, les cuento un poco de mí! a comienzos del 2022, después de un ti
  
  <p align="left">
       <a href="http://linkedin.com/in/santiago-estevez-a04298139">
-         <img alt="Portafolio" title="Mira mi portafolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-red?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
+         <img alt="Portafolio" title="Mira mi portafolio" src="https://golden-pothos-2374c5.netlify.app/"/></a>
        <a href="http://linkedin.com/in/santiago-estevez-a04298139">
          <img alt="CV" title="Mira mi CV" src="https://custom-icon-badges.demolab.com/badge/-Mi CV-green?style=for-the-badge&logo=download&logoColor=white"/></a>
         <a href="https://github.com/elbolaestevez">
