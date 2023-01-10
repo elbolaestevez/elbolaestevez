@@ -1,6 +1,6 @@
 <h1 align="center">🧑‍💻 Santiago Estevez 🧑‍💻</h1>
 
-<h3 align="center">Full Stack Developer apasionado de Argentina 🇨🇴</h3>
+<h3 align="center">Full Stack Developer apasionado de Argentina</h3>
 
 Hola a todos, les cuento un poco de mí! a comienzos del 2022, después de un tiempo ejerciendo mi carrera como Contador y sintiéndome insatisfecho salí de mi zona de confort, dándole un giro a mi vida donde decidí tomar un camino diferente y un nuevo desafío. Finalmente, luego de tanta búsqueda encontré algo que me apasiona que en mi tiempo libre lo utilizo como entretenimiento. El poder de creatividad que brinda esto es muy grande, muy distinto lo que hacía anteriormente. Y ahora que lo encontré no voy a parar.
 
