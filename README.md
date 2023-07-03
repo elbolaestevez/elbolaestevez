@@ -3,7 +3,9 @@
 <h3 align="center">Full Stack Developer apasionado de Argentina</h3>
 
 Durante mi tiempo como Contador, adquirí valiosas habilidades de trabajo en equipo gracias a mi experiencia en el ámbito impositivo mientras trabajaba en una de las cuatro principales firmas de consultoría, Pwc (PriceWaterhouseCoopers).
+
 Más tarde, viví en Barcelona, donde tuve la oportunidad de sumergirme en el mundo de la tecnología. Quedé sorprendido por el poder de la creatividad y la libertad que esta industria ofrecía. Esto hizo que tomara un giro drástico en mi vida y decidiera estudiar desarrollo web en el bootcamp de 'Plataforma 5'. A medida que avanzaba en el programa, mi pasión por el campo de las tecnologías de la información crecía exponencialmente, resultando mucho más emocionante y gratificante que mi trabajo anterior.
+
 Durante mucho tiempo estuve en busca de algo que realmente me apasionara y que estuviera en sintonía con mi verdadero ser. Ahora que lo he encontrado, no pienso detenerme.
 
  
